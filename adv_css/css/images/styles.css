@@ -1,0 +1,114 @@
+/* Global Styles */
+
+body{
+background-color: #095004;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 80%
+}
+ a {
+    color: #1BBF15;
+    text-decoration: none;
+ }
+#container {
+    background-color:#fff;
+    width: 80%;
+    Margin: 20px auto;
+}
+h1, h2, h3 {
+    text-align: center;
+    color:#F20544;
+    text-shadow: 1px 1px 1px #000;
+}
+/* Desktop Styles!! */
+
+nav {
+    background-color: #317302;
+    padding: 5px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+
+nav ul {
+list-style-type: none;
+padding: 5px;
+
+}
+
+nav li {
+display: inline-block;
+}
+
+nav li a {
+    color: #F2EA77;
+    text-decoration: none;
+    font-size:  20px;
+    font-weight: bold;
+}
+
+nav li a:hover {
+    color:white;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 75px;
+    color: #F20544;
+    text-shadow: 2px 2px 2px #000;
+}
+
+main{
+    padding: 10px;
+}
+main img{
+    width: 40%;
+}
+
+#lower {
+    display: flex;
+}
+
+.col {
+padding: 10px;
+margin:10px;
+border: 2px solid #095004;
+width: 33.33%;
+border-radius: 10 px;
+
+
+}
+.col img{
+    border-radius: 10px;
+}
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+}
+
+hr {
+    width: 90%
+}
+
+.button{
+    display: block;
+    background-color:#095004;
+width: 125px;
+height: 50px;
+color: white;
+text-decoration:none;
+text-align: center;
+line-height: 35px;
+margin-top: 10px;
+border-radius: 10px;
+margin-left: auto;
+margin-right: auto;
+}
+.button:hover {
+    color: white;
+}
+
