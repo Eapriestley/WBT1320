@@ -1,4 +1,5 @@
 /* Global Styles */
+
 img{
     display:block;
     margin: 0 auto;
@@ -7,10 +8,11 @@ img{
 
 body{
     background-color:#28731D;
+    font-family: 'Franklin Gothic Medium'
 }
 #container {
     background-color:white;
-    padding:10px;
+    padding:9px;
 }
 h1, h2, h3 {
     text-align: center;
@@ -25,7 +27,7 @@ nav {
     padding: 10px;
 }
 a:hover {
-    color:#28731D;
+    color:#c5f6bd;
     text-decoration: none;
 }
 
@@ -113,7 +115,7 @@ main img {
     width: 40%;
 }
 #lower {
-    width: 75%;
+    width: 90%;
     margin: 0 auto;
 }
 .col img {
@@ -130,9 +132,10 @@ main img {
 }
 
 #lower{
-    width:100%;
+   
+   
     display: flex;
-    ;
+    
 }
 
 
