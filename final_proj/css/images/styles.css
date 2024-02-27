@@ -48,7 +48,7 @@ nav li a{
     color: white;
     background-color: #095004;
     text-align: center;
-margin: 5px 0;
+margin: 6px 0;
 font-size: 20px;
 font-weight: bold;
 text-decoration: none;
@@ -57,8 +57,9 @@ nav li:hover {
     background-color:rgb(177, 255, 200);
 }
 header h1 {
+    font-family: Franklin Goth Medium;
     font-size:35px;
-    color:#1BBF15
+    color:#47b044
 
 }
 main {
