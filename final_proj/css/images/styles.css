@@ -11,10 +11,11 @@ body{
     font-family: 'Franklin Gothic Medium'
 }
 #container {
-    background-color:white;
+    background-color: white;
     padding:9px;
 }
 h1, h2, h3 {
+    font-family: Franklin GOthic Medium;
     text-align: center;
 }
 a {
